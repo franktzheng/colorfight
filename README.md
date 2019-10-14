@@ -1,3 +1,7 @@
+# Colorfight Bot
+
+Created by Alex Yu, Jason Jewik, and Frank Zheng at [AI]nvasion 2019.
+
 # Requirements
 
 You need >= python3.6 to run this script. The websocket part uses async/await
